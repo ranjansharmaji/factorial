@@ -1,0 +1,1 @@
+using c takes no time for factorial but in python this is not case but big factorial can not be calculated in c only in python by scipy.
